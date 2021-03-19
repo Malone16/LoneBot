@@ -41,11 +41,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mhankbarbar/termux-wabot.git
-
+    "url": "git+https://github.com/mhankbarbar/termux-wabot.git"
   },
   "bugs": {
     "url": "https://github.com/mhankbarbar/termux-wabot/issues"
   },
   "homepage": "https://github.com/mhankbarbar/termux-wabot#readme"
 }
+
+
