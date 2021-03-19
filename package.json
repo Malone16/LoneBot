@@ -41,7 +41,8 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Malone16/LoneBot.git"
+    "url": "git+https://github.com/mhankbarbar/termux-wabot.git
+
   },
   "bugs": {
     "url": "https://github.com/mhankbarbar/termux-wabot/issues"
